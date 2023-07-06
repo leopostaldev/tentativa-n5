@@ -48,7 +48,7 @@ img{
 .hero{
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(4, 8, 30, .3), rgba(4,9,30,.9)), url(/assets/Imagens/pexels\ notas.jpg);
+    background-image: linear-gradient(rgba(4, 8, 30, .3), rgba(4,9,30,.9)), url(Imagens/pexels notas.jpg);
     background-position:50%;
     background-repeat: no-repeat;
     background-size: cover;
