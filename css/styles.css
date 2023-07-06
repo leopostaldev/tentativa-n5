@@ -35,7 +35,7 @@ img{
 .btn{
     background-color: var(--color-green);
     border: 2px solid var(--color-green);
-    padding: 8px 3.5rem;
+    padding: 8px 2rem;
     border-radius:5px;
     color: var(--color-light);
     transition: var(--transition);}
