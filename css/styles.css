@@ -136,7 +136,7 @@ img{
 }
 /* divisoria de baixo */
 .plan-titlediv{
-    background-image: linear-gradient(rgba(4, 8, 30, .3), rgba(4,9,30,.9)), url(Imagens/pexels-jonathan-meyer-613001.jpg);
+    background-image: linear-gradient(rgba(4, 8, 30, .3), rgba(4,9,30,.9)), url(/Imagens/pexels-jonathan-meyer-613001.jpg);
     background-size:10%;
     background-repeat:repeat;
 
